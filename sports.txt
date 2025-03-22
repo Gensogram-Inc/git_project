@@ -4,3 +4,4 @@ Basketball
 Swimming
 VolleyBall
 Hockey
+Skiing
