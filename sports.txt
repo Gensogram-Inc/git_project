@@ -5,3 +5,4 @@ Swimming
 VolleyBall
 Hockey
 Ice Skating
+Skiing
