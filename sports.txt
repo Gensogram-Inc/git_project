@@ -6,3 +6,4 @@ VolleyBall
 Hockey
 Ice Skating
 Skiing
+Badminton
